@@ -12,7 +12,7 @@ title: "Daniel's Website"
 title_separator: "-"
 name: &name "Daniel Quezada"
 description: &description "personal description"
-url: "https://www.danielquezada.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://dq4781.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "DQ4781/danielquezada.com"
 
